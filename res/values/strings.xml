@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YAMPP_4.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="MAP_KEY_MY">AIzaSyB9T3fBp_CDhZ1s6UV2k7ojOAa4uspoJ2Q</string>
+
+</resources>
